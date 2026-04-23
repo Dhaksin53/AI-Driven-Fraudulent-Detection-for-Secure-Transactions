@@ -1,0 +1,10 @@
+streamlit>=1.30
+pandas
+numpy
+scikit-learn>=1.4
+joblib
+plotly
+networkx
+matplotlib
+requests
+google-generativeai
